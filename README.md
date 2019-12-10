@@ -31,6 +31,7 @@ Rick's talks:
 - [AWS re:Invent 2019: Data Modeling with DynamoDB](https://www.youtube.com/watch?v=DIQVJqiSUkE). A more intermediate level talk that will explain some of the principles behind data modeling with DynamoDB.
 - [DynamoDB Deep Dive (Course](https://linuxacademy.com/course/dynamo-db-deep-dive/). A full course from the folks at Linux Academy on how to use DynamoDB.
 - [ServerlessConf 2019: Using (and Ignoring) DynamoDB Best Practices with Serverless](https://acloud.guru/series/serverlessconf-nyc-2019/view/dynamodb-best-practices). This talk focuses on using DynamoDB in Serverless applications.
+- [DynamoDB Relationships](https://www.youtube.com/watch?v=lh7q5hCrCSU&list=PL6oNLEZTnXshgy4iHFULjYvcwbeMTotJp). A nice 30 minute video series from [Gary Jennings](https://twitter.com/G_Jennings09) that walks through examples of how to model different types of relationships in DynamoDB -- one-to-one, one-to-many, and many-to-many. Nice use of the NoSQL Workbench for DynamoDB as well.
 
 ## Written resources
 
