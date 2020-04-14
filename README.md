@@ -11,6 +11,7 @@ Contributions welcome!
 ## Table of Contents
 
 - [Rick Houlihan](#rick-houlihan)
+- [Books](#books)
 - [Videos](#videos)
 - [Written resources](#written-resources)
 - [Tools](#tools)
@@ -25,6 +26,10 @@ Rick's talks:
 - [AWS re:Invent 2018: Advanced Design Patterns](https://t.co/ivlcYMhkur?amp=1)
 - [AWS re:Invent 2017: Advanced Design Patterns](https://t.co/b3OeDqBbBK?amp=1)
 
+## Books
+
+- [The DynamoDB Book](https://www.dynamodbbook.com/). Comprehensive guide to data modeling with DynamoDB. [Endorsed by Rick Houlihan](https://twitter.com/houlihan_rick/status/1247522640278859777) and heavily used within Amazon & AWS.
+
 ## Videos
 
 - [AWS re:Invent 2018: DynamoDB Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ). Really great talk from a DynamoDB engineer that dives into the architecture behind DynamoDB.
@@ -32,6 +37,7 @@ Rick's talks:
 - [DynamoDB Deep Dive (Course](https://linuxacademy.com/course/dynamo-db-deep-dive/). A full course from the folks at Linux Academy on how to use DynamoDB.
 - [ServerlessConf 2019: Using (and Ignoring) DynamoDB Best Practices with Serverless](https://acloud.guru/series/serverlessconf-nyc-2019/view/dynamodb-best-practices). This talk focuses on using DynamoDB in Serverless applications.
 - [DynamoDB Relationships](https://www.youtube.com/watch?v=lh7q5hCrCSU&list=PL6oNLEZTnXshgy4iHFULjYvcwbeMTotJp). A nice 30 minute video series from [Gary Jennings](https://twitter.com/G_Jennings09) that walks through examples of how to model different types of relationships in DynamoDB -- one-to-one, one-to-many, and many-to-many. Nice use of the NoSQL Workbench for DynamoDB as well.
+- [Videos from The DynamoDB Book](https://www.youtube.com/playlist?list=PLNjt4IpUlQLieAf8YE4bjN7kgwntsfW_B). A playlist of three sample videos from The DynamoDB Book.
 
 ## Written resources
 
