@@ -58,3 +58,4 @@ Rick's talks:
 - [DynamoDB Read Stream](https://github.com/AlexHladin/dynamodb-read-stream). An open-source tool for reading data chunk by chunk. This tool is created for handling DynamoDB limitation for one response (1 MB).
 - [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/). Simple tool to calculate your DynamoDB costs
 - [DynamoDB Table Designer](https://dynobase.dev/dynamodb-table-schema-design-tool/). Visual tool to help you create DynamoDB Table definitions without the knowledge of CreateTable syntax.
+- [Dynoexpr](https://github.com/tuplo/dynoexpr) Typescript/Javascript expression builder library which immensely simplifies the DynamoDB.DocumentClient syntax. 
