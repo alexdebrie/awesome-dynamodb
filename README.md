@@ -64,3 +64,4 @@ Rick's talks:
 ## Uses
 
 - [Priority Queuing](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/). This post describes how to convert any of your Amazon DynamoDB tables into a queue that can enqueue and dequeue, as you would do with any other large-scale queuing systems.
+- [Near-Real-Time Event Processing](https://aws.amazon.com/blogs/database/how-to-perform-ordered-data-replication-between-applications-by-using-amazon-dynamodb-streams/). This post evaluates multiple patterns for processing DynamoDB streams by using several AWS services that are part of AWS serverless computing. It also dives into the details about the most reliable and scalable pattern to perform near-real-time processing of DynamoDB streams to notify other systems and users, archive transactions, and replicate data to other data stores while ensuring ordered processing.
