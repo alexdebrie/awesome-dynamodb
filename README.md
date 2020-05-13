@@ -15,6 +15,7 @@ Contributions welcome!
 - [Videos](#videos)
 - [Written resources](#written-resources)
 - [Tools](#tools)
+- [Uses](#uses)
 
 ## Rick Houlihan
 
@@ -58,4 +59,10 @@ Rick's talks:
 - [DynamoDB Read Stream](https://github.com/AlexHladin/dynamodb-read-stream). An open-source tool for reading data chunk by chunk. This tool is created for handling DynamoDB limitation for one response (1 MB).
 - [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/). Simple tool to calculate your DynamoDB costs
 - [DynamoDB Table Designer](https://dynobase.dev/dynamodb-table-schema-design-tool/). Visual tool to help you create DynamoDB Table definitions without the knowledge of CreateTable syntax.
-- [Dynoexpr](https://github.com/tuplo/dynoexpr) Typescript/Javascript expression builder library which immensely simplifies the DynamoDB.DocumentClient syntax. 
+- [Dynoexpr](https://github.com/tuplo/dynoexpr) Typescript/Javascript expression builder library which immensely simplifies the DynamoDB.DocumentClient syntax.
+
+## Uses
+
+- [Priority Queuing](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/). This post describes how to convert any of your Amazon DynamoDB tables into a queue that can enqueue and dequeue, as you would do with any other large-scale queuing systems.
+- [Near-Real-Time Event Processing](https://aws.amazon.com/blogs/database/how-to-perform-ordered-data-replication-between-applications-by-using-amazon-dynamodb-streams/). This post evaluates multiple patterns for processing DynamoDB streams by using several AWS services that are part of AWS serverless computing. It also dives into the details about the most reliable and scalable pattern to perform near-real-time processing of DynamoDB streams to notify other systems and users, archive transactions, and replicate data to other data stores while ensuring ordered processing.
+- [Advanced Analytics & Visualizations](https://aws.amazon.com/blogs/database/how-to-perform-advanced-analytics-and-build-visualizations-of-your-amazon-dynamodb-data-by-using-amazon-athena/). This blog post shows you how to build a big data pipeline that transitions the data from your DynamoDB table to Amazon S3. This helps you perform advanced analytics by using Amazon Athena, a fully managed Presto query service, and also helps you build visualizations and ad hoc analyses by using Amazon QuickSight.
