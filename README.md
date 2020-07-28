@@ -26,6 +26,7 @@ Rick's talks:
 - [AWS re:Invent 2019: Advanced Design Patterns](https://t.co/fRtp2X3Vgg?amp=1)
 - [AWS re:Invent 2018: Advanced Design Patterns](https://t.co/ivlcYMhkur?amp=1)
 - [AWS re:Invent 2017: Advanced Design Patterns](https://t.co/b3OeDqBbBK?amp=1)
+- [DynamoDB Office Hours | Online banking service model](https://www.twitch.tv/videos/689452191)
 
 ## Books
 
