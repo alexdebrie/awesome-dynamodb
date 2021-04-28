@@ -53,7 +53,6 @@ Rick's talks:
 
 ## Tools
 
-- [TypeDORM](https://github.com/typedorm/typedorm). Strongly typed object relational mapper built with single-table-design in mind, and inspired by TypeORM.
 - [Dynobase](https://dynobase.dev/). Handy tool that makes it easy to view and manipulate your tables, generate application code, and more.
 - [NoSQL Workbench For Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html). A tool similar MySQL workbench that lets you model data and interact with your tables without going to the AWS console.
 - [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox). An open source project from Jeremy Daly that provides a number of helpful utilities for working with single-table designs in JavaScript. Unofficial winner of the 2019 Best Logo in Open Source award.
@@ -62,6 +61,7 @@ Rick's talks:
 - [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/). Simple tool to calculate your DynamoDB costs
 - [DynamoDB Table Designer](https://dynobase.dev/dynamodb-table-schema-design-tool/). Visual tool to help you create DynamoDB Table definitions without the knowledge of CreateTable syntax.
 - [Dynoexpr](https://github.com/tuplo/dynoexpr) Typescript/Javascript expression builder library which immensely simplifies the DynamoDB.DocumentClient syntax.
+- [TypeDORM](https://github.com/typedorm/typedorm). Strongly typed object relational mapper built with single-table-design in mind, and inspired by TypeORM.
 
 ## Uses
 
