@@ -61,6 +61,7 @@ Rick's talks:
 - [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/). Simple tool to calculate your DynamoDB costs
 - [DynamoDB Table Designer](https://dynobase.dev/dynamodb-table-schema-design-tool/). Visual tool to help you create DynamoDB Table definitions without the knowledge of CreateTable syntax.
 - [Dynoexpr](https://github.com/tuplo/dynoexpr) Typescript/Javascript expression builder library which immensely simplifies the DynamoDB.DocumentClient syntax.
+- [TypeDORM](https://github.com/typedorm/typedorm). Strongly typed object relational mapper built with single-table-design in mind, and inspired by TypeORM.
 
 ## Uses
 
