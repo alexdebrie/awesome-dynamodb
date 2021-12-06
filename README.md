@@ -65,6 +65,7 @@ Rick's talks:
 - [Dynoexpr](https://github.com/tuplo/dynoexpr) Typescript/Javascript expression builder library which immensely simplifies the DynamoDB.DocumentClient syntax.
 - [TypeDORM](https://github.com/typedorm/typedorm). Strongly typed object relational mapper built with single-table-design in mind, and inspired by TypeORM.
 - [LucidDynamodb](https://github.com/dineshsonachalam/lucid-dynamodb) A minimalistic wrapper to AWS DynamoDB.
+- [ElectroDB](https://github.com/tywalch/electrodb) A DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.
 
 ## Uses
 
