@@ -23,6 +23,7 @@ Contributions welcome!
 
 Rick's talks:
 
+- [AWS re:Invent 2021: Advanced Design Patterns](https://www.youtube.com/watch?v=xfxBhvGpoa0)
 - AWS re:Invent 2020: Advanced Design Patterns [Part 1](https://youtu.be/MF9a1UNOAQo) & [Part 2](https://youtu.be/_KNrRdWD25M)
 - [AWS re:Invent 2019: Advanced Design Patterns](https://t.co/fRtp2X3Vgg?amp=1)
 - [AWS re:Invent 2018: Advanced Design Patterns](https://t.co/ivlcYMhkur?amp=1)
@@ -35,6 +36,7 @@ Rick's talks:
 
 ## Videos
 
+- [AWS re:Invent 2021: Data Modeling with DynamoDB](https://www.youtube.com/watch?v=yNOVamgIXGQ). Updated talk that discusses core principles with DynamoDB as well as key tips for designing your data model.
 - AWS re:Invent 2020: Data Modeling with DynamoDB [Part 1](https://youtu.be/fiP2e-g-r4g) & [Part 2](https://youtu.be/0uLF1tjI_BI). Intermediate level talks on the concepts behind DynamoDB data modeling.
 - [AWS re:Invent 2018: DynamoDB Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ). Really great talk from a DynamoDB engineer that dives into the architecture behind DynamoDB.
 - [AWS re:Invent 2019: Data Modeling with DynamoDB](https://www.youtube.com/watch?v=DIQVJqiSUkE). A more intermediate level talk that will explain some of the principles behind data modeling with DynamoDB.
