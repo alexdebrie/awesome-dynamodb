@@ -68,7 +68,7 @@ Rick's talks:
 - [TypeDORM](https://github.com/typedorm/typedorm). Strongly typed object relational mapper built with single-table-design in mind, and inspired by TypeORM.
 - [LucidDynamodb](https://github.com/dineshsonachalam/lucid-dynamodb) A minimalistic wrapper to AWS DynamoDB.
 - [ElectroDB](https://github.com/tywalch/electrodb) A DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.
-- [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) is a Scylla feature adding compatibility with Amazon DynamoDB. It c an be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
+- [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) is a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
 
 ## Uses
 
