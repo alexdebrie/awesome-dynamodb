@@ -54,6 +54,7 @@ Rick's talks:
 - [Comparing multi and single table approaches to designing a DynamoDB data model](https://winterwindsoftware.com/dynamodb-modelling-single-vs-multi-table/). [Paul Swail](https://twitter.com/paulswail) takes a look at the pros and cons of modeling with a single table in DynamoDB and provides recommendations on when to avoid it.
 - [Lessons learned using Single-table design with DynamoDB and GraphQL in production](https://servicefull.cloud/blog/dynamodb-single-table-design-lessons/). A collection of great tips learned the hard way from [Rafal Wilinski](https://twitter.com/rafalwilinski). Rafal is the creator of Dynobase, listed in the [Tools](#tools) section below.
 - [DynamoDB Document client cheatsheet](https://github.com/dabit3/dynamodb-documentclient-cheat-sheet). From the prolific [Nader Dabit](https://twitter.com/dabit3), this is a handy cheatsheet for using DynamoDB in JavaScript applications.
+- [Amazon’s DynamoDB — 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
 
 ## Tools
 
