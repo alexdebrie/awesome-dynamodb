@@ -73,6 +73,7 @@ Rick's talks:
 - [LucidDynamodb](https://github.com/dineshsonachalam/lucid-dynamodb) A minimalistic wrapper to AWS DynamoDB.
 - [ElectroDB](https://github.com/tywalch/electrodb) A DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.
 - [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) is a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
+- [typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) provides type safety and editor type hints to the `getItem`, `putItem`, `deleteItem` and `query` API (SDK v2) calls which understand the structure of data in your table.
 
 ## Uses
 
