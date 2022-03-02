@@ -74,6 +74,8 @@ Rick's talks:
 - [ElectroDB](https://github.com/tywalch/electrodb) A DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.
 - [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) is a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
 - [typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) provides type safety and editor type hints to the `getItem`, `putItem`, `deleteItem` and `query` API (SDK v2) calls which understand the structure of data in your table.
+- [SenseDeep](https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html) includes a DynamoDB Studio with single-table aware browser, designer, migration manager, provisioner, and single table metrics.
+- [DynamoDB OneTable](https://github.com/sensedeep/dynamodb-onetable). DynamoDB library that makes single table designs using NodeJS much easier via a high-level type-safe API.
 
 ## Uses
 
