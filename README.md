@@ -76,6 +76,8 @@ Rick's talks:
 - [typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) provides type safety and editor type hints to the `getItem`, `putItem`, `deleteItem` and `query` API (SDK v2) calls which understand the structure of data in your table.
 - [SenseDeep](https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html) includes a DynamoDB Studio with single-table aware browser, designer, migration manager, provisioner, and single table metrics.
 - [DynamoDB OneTable](https://github.com/sensedeep/dynamodb-onetable). DynamoDB library that makes single table designs using NodeJS much easier via a high-level type-safe API.
+- [Serverless Console](https://marketplace.visualstudio.com/items?itemName=devAdvice.serverlessconsole) Visual Studio Code extension DynamoDB console.
+- [DynamoDB CSV utility](https://github.com/danishi/dynamodb-csv) A utility that allows CSV import / export to DynamoDB on the command line.
 
 ## Uses
 
