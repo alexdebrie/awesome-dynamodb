@@ -36,6 +36,7 @@ Rick's talks:
 
 ## Videos
 
+- [AWS re:Invent 2022: Deploy modern and effective data models with DynamoDB](https://youtu.be/SC-YAPgJpms). Talk with Alex DeBrie and DynamoDB Principal Engineer Amrith Kumar that covers infrastructure, data modeling, and their interaction.
 - [AWS re:Invent 2021: Data Modeling with DynamoDB](https://www.youtube.com/watch?v=yNOVamgIXGQ). Updated talk that discusses core principles with DynamoDB as well as key tips for designing your data model.
 - AWS re:Invent 2020: Data Modeling with DynamoDB [Part 1](https://youtu.be/fiP2e-g-r4g) & [Part 2](https://youtu.be/0uLF1tjI_BI). Intermediate level talks on the concepts behind DynamoDB data modeling.
 - [AWS re:Invent 2018: DynamoDB Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ). Really great talk from a DynamoDB engineer that dives into the architecture behind DynamoDB.
