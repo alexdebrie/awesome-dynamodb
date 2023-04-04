@@ -79,6 +79,8 @@ Rick's talks:
 - [DynamoDB OneTable](https://github.com/sensedeep/dynamodb-onetable). DynamoDB library that makes single table designs using NodeJS much easier via a high-level type-safe API.
 - [Serverless Console](https://marketplace.visualstudio.com/items?itemName=devAdvice.serverlessconsole) Visual Studio Code extension DynamoDB console.
 - [DynamoDB CSV utility](https://github.com/danishi/dynamodb-csv) A utility that allows CSV import / export to DynamoDB on the command line.
+- [dynaglue](https://github.com/chris-armstrong/dynaglue) TypeScript library for easily querying and updating against multi-collection/single-table designs
+- [dynamodb-size](https://github.com/chris-armstrong/dynamodb-size-js) JavaScript library for estimating the size of DynamoDB objects
 
 ## Uses
 
