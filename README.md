@@ -82,6 +82,7 @@ Rick's talks:
 - [dynaglue](https://github.com/chris-armstrong/dynaglue) TypeScript library for easily querying and updating against multi-collection/single-table designs
 - [dynamodb-size](https://github.com/chris-armstrong/dynamodb-size-js) JavaScript library for estimating the size of DynamoDB objects
 - [DynamoDataTransform](https://github.com/jitsecurity/dynamo-data-transform) Dynamo Data Transform is an easy to use data transformation tool for DynamoDB
+- [dynamodb-shell](https://github.com/awslabs/dynamodb-shell). ddbsh is a simple CLI for DynamoDB modeled on isql, and the MySQL CLIs. 
 
 ## Uses
 
