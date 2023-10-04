@@ -66,6 +66,7 @@ Rick's talks:
 - [NoSQL Workbench For Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html). A tool similar MySQL workbench that lets you model data and interact with your tables without going to the AWS console.
 - [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox). An open source project from Jeremy Daly that provides a number of helpful utilities for working with single-table designs in JavaScript. Unofficial winner of the 2019 Best Logo in Open Source award.
 - [Dynamoose](https://github.com/dynamoose/dynamoose/). An open source modeling tool for Node.js projects, inspired by Mongoose.
+- [Dynamode](https://github.com/blazejkustra/dynamode). An open-source strongly typed modeling tool for Typescript projects.
 - [DynamoDB Read Stream](https://github.com/AlexHladin/dynamodb-read-stream). An open-source tool for reading data chunk by chunk. This tool is created for handling DynamoDB limitation for one response (1 MB).
 - [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/). Simple tool to calculate your DynamoDB costs
 - [DynamoDB Table Designer](https://dynobase.dev/dynamodb-table-schema-design-tool/). Visual tool to help you create DynamoDB Table definitions without the knowledge of CreateTable syntax.
