@@ -32,7 +32,7 @@ Rick's talks:
 
 ## Books
 
-- [The DynamoDB Book](https://www.dynamodbbook.com/). Comprehensive guide to data modeling with DynamoDB. [Endorsed by Rick Houlihan](https://twitter.com/houlihan_rick/status/1247522640278859777) and heavily used within Amazon & AWS.
+- [The DynamoDB Book](https://dynamodbbook.com/). Comprehensive guide to data modeling with DynamoDB. [Endorsed by Rick Houlihan](https://twitter.com/houlihan_rick/status/1247522640278859777) and heavily used within Amazon & AWS.
 
 ## Videos
 
