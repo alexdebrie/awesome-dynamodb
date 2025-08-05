@@ -87,6 +87,7 @@ Rick's talks:
 - [DynamoDataTransform](https://github.com/jitsecurity/dynamo-data-transform) Dynamo Data Transform is an easy to use data transformation tool for DynamoDB
 - [dynamodb-shell](https://github.com/awslabs/dynamodb-shell). ddbsh is a simple CLI for DynamoDB modeled on isql, and the MySQL CLIs. 
 - [NoSQL Architect](https://volisoft.org/ddb.html). NoSQL Architect is a fully automated schema generator and cost optimization tool for single-table designs in DynamoDB.
+- [DynamoSharp](https://github.com/ChrixApp/DynamoSharp). DynamoSharp is an ORM for C# with a focus on single-table design.
 
 ## Uses
 
