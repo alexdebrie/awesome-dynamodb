@@ -88,6 +88,7 @@ Rick's talks:
 - [dynamodb-shell](https://github.com/awslabs/dynamodb-shell). ddbsh is a simple CLI for DynamoDB modeled on isql, and the MySQL CLIs. 
 - [NoSQL Architect](https://volisoft.org/ddb.html). NoSQL Architect is a fully automated schema generator and cost optimization tool for single-table designs in DynamoDB.
 - [DynamoSharp](https://github.com/ChrixApp/DynamoSharp). DynamoSharp is an ORM for C# with a focus on single-table design.
+- [Dynamo-ts](https://github.com/hexlabsio/dynamo-ts). DynamoDB + TypeScript made simple - An easier way to interact with DynamoDb using TypeScript
 
 ## Uses
 
