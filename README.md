@@ -89,6 +89,7 @@ Rick's talks:
 - [NoSQL Architect](https://volisoft.org/ddb.html). NoSQL Architect is a fully automated schema generator and cost optimization tool for single-table designs in DynamoDB.
 - [DynamoSharp](https://github.com/ChrixApp/DynamoSharp). DynamoSharp is an ORM for C# with a focus on single-table design.
 - [Dynamo-ts](https://github.com/hexlabsio/dynamo-ts). DynamoDB + TypeScript made simple - An easier way to interact with DynamoDb using TypeScript
+- [DynamoDB Cost Calculator](https://calculator.scylladb.com/). DynamoDB cost analyzer that helps developers understand what their workloads will actually cost
 
 ## Uses
 
