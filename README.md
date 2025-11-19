@@ -89,6 +89,7 @@ Rick's talks:
 - [NoSQL Architect](https://volisoft.org/ddb.html). NoSQL Architect is a fully automated schema generator and cost optimization tool for single-table designs in DynamoDB.
 - [DynamoSharp](https://github.com/ChrixApp/DynamoSharp). DynamoSharp is an ORM for C# with a focus on single-table design.
 - [Dynamo-ts](https://github.com/hexlabsio/dynamo-ts). DynamoDB + TypeScript made simple - An easier way to interact with DynamoDb using TypeScript
+- [Dynomate](https://dynomate.io). Cross-platform Dynamodb GUI client for desktop built with Rust and Tauri. Provides a fast multi-tab UI for browsing tables, running queries, managing items, authenticating with AWS profiles (including SSO & MFA) and more.
 
 ## Uses
 
