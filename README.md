@@ -62,6 +62,7 @@ Rick's talks:
 
 ## Tools
 
+- [DocKit](https://www.geekfun.club/products/dockit/) - Open-source cross-platform GUI client for DynamoDB. Features PartiQL editor, visual query builder, inline data editing, table management with metrics, import/export, DynamoDB Local support, and AI-assisted query generation.
 - [Dynoport](https://www.npmjs.com/package/dynoport) - A CLI tool that allows you to easily import and export data from a specified DynamoDB table. 
 - [Dynobase](https://dynobase.dev/) - Handy tool that makes it easy to view and manipulate your tables, generate application code, and more.
 - [NoSQL Workbench For Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html) - A tool similar MySQL workbench that lets you model data and interact with your tables without going to the AWS console.
