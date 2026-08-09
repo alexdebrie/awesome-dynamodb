@@ -91,6 +91,7 @@ Rick's talks:
 - [Dynamo-ts](https://github.com/hexlabsio/dynamo-ts) - DynamoDB + TypeScript made simple - An easier way to interact with DynamoDB using TypeScript.
 - [Dynomate](https://dynomate.io) - Cross-platform DynamoDB GUI client for desktop built with Rust and Tauri. Provides a fast multi-tab UI for browsing tables, running queries, managing items, authenticating with AWS profiles (including SSO & MFA) and more.
 - [dynq](https://github.com/benward2301/dynq) - An analytic query and data processing CLI tool for DynamoDB that uses jq filters to target, transform, and aggregate items, with automatic pagination, table segmentation, and index expansion.
+- [SaturnSQL](https://saturnsql.com) - Browser-based collaborative SQL editor for teams, with a shared query library and scheduled exports to Google Sheets and Slack.
 
 ## Uses
 
