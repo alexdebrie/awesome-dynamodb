@@ -69,6 +69,8 @@ Rick's talks:
 - [Dynamoose](https://github.com/dynamoose/dynamoose/) - An open source modeling tool for Node.js projects, inspired by Mongoose.
 - [Dynamode](https://github.com/blazejkustra/dynamode) - An open-source strongly typed modeling tool for TypeScript projects.
 - [DynamoDB Read Stream](https://github.com/AlexHladin/dynamodb-read-stream) - An open-source tool for reading data chunk by chunk. This tool is created for handling DynamoDB limitation for one response (1 MB).
+- [dynamodb-partiql-parser](https://github.com/dynotable/dynamodb-partiql-parser) - A PartiQL parser and linter for DynamoDB in pure TypeScript with zero dependencies. Flags constructs DynamoDB rejects (JOIN, GROUP BY, LIMIT, and more) before you send the statement, with quick fixes where a rewrite exists.
+- [dynamodb-reserved-words](https://github.com/dynotable/dynamodb-reserved-words) - The complete list of 573 DynamoDB reserved words as a zero-dependency package, with helpers to check attribute names and generate ExpressionAttributeNames aliases.
 - [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/) - Simple tool to calculate your DynamoDB costs.
 - [DynamoDB Table Designer](https://dynobase.dev/dynamodb-table-schema-design-tool/) - Visual tool to help you create DynamoDB Table definitions without the knowledge of CreateTable syntax.
 - [Dynamo Mapper](https://github.com/autonomouslogic/dynamo-mapper) - A simple mapper for converting to and from DynamoDB AttributeValues and Java POJOs using Jackson.
