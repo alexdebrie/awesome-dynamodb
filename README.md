@@ -62,6 +62,7 @@ Rick's talks:
 
 ## Tools
 
+- [Tabularis](https://github.com/TabularisDB/tabularis) - Open-source database client with a DynamoDB plugin for browsing tables, running PartiQL queries, and editing items.
 - [Dynoport](https://www.npmjs.com/package/dynoport) - A CLI tool that allows you to easily import and export data from a specified DynamoDB table. 
 - [Dynobase](https://dynobase.dev/) - Handy tool that makes it easy to view and manipulate your tables, generate application code, and more.
 - [NoSQL Workbench For Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html) - A tool similar MySQL workbench that lets you model data and interact with your tables without going to the AWS console.
